@@ -1,4 +1,4 @@
-body {
+body{
    background-color: #ccc;
    font-family: Helvetica, sans-serif;
    color: #222;
@@ -10,7 +10,7 @@ img {
 }
 
 h1 {
-    margin: 15 0;;
+    margin: 15px 0;
 }
 
 h2 {
